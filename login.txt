@@ -1,0 +1,3 @@
+comando para criar um projeto React: npx create-vite . (não esqueça do ponto)
+Depois vai pedir para vc dar um npm install e um npm run dev, siga o procedimento. Ele irá iniciar o servidor de desenvolcimento.
+Para usar icones, use o comando npm i @react-icons/all-files react-icons
